@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Almacenes cueva</string>
+    <string name="txtCodigoStr">Código</string>
+    <string name="txtNombreStr">Nombre</string>
+    <string name="txtCantidadStr">Cantidad</string>
+    <string name="btnGuardarStr">Agregar</string>
+    <string name="btnActualizarStr">Actualizar</string>
+    <string name="btnEliminarStr">Eliminar</string>
+
+    <string name="lblCodigoStr">Código</string>
+    <string name="lblNombreStr">Nombre</string>
+    <string name="lblCantidadStr">Cantidad</string>
+    <string name="btnAceptarDialog">Aceptar</string>
+    <string name="titulo_advertencia">Advertencia</string>
+    <string name="titulo_confirmacion">Confirmación</string>
+
+
+    <string name="mensaje_advertencia_1">El código ingresado ya se encuentra registrado</string>
+    <string name="mensaje_confirmacion_1">El producto se guardo con éxito</string>
+    <string name="mensaje_confirmacion_2">Se actualizó la información del producto</string>
+    <string name="mensaje_confirmacion_5">Se elimino el producto con éxito</string>
+
+
+    <string name="mensaje_advertencia_2">Debe ingresar todos los campos para poder agregar el producto</string>
+
+
+    <string name="mensaje_txt_advertencia">Este campo es obligatorio</string>
+
+
+    <string name="titulo_producto_nuevo">Nuevo producto</string>
+    <string name="titulo_producto_editar">Editar producto</string>
+
+</resources>
